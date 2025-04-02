@@ -28,3 +28,4 @@
 |YHS-Acceptance-Criteria|[Here](https://github.com/YUHESEN-Robot/YHS-Acceptance-Criteria) are Yuhesen's acceptance criteria manuals for all products|
 |YHS-Maintenance-Manual|[Here](https://github.com/YUHESEN-Robot/YHS-Maintenance-Manual) is the after-sales maintenance standard manual of YUHESEN products|
 |YHS-ROS-Opensource-Nav|[This](https://github.com/YUHESEN-Robot/YHS-ROS-Opensource-Nav) is YUHESEN open source chassis navigation software with high precision based on ROS research and development|
+|YHS-Product-Catalog |All the information of YUHESEN products are in the brochure of [this warehouse](https://github.com/YUHESEN-Robot/YHS-Product-Catalog). You can choose whatever you need.|
