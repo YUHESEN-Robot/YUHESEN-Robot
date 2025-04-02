@@ -28,3 +28,4 @@
 |YHS-Acceptance-Criteria|[这里](https://github.com/YUHESEN-Robot/YHS-Acceptance-Criteria)是YUHESEN产品的验收标准手册|
 |YHS-Maintenance-Manual|[这里](https://github.com/YUHESEN-Robot/YHS-Maintenance-Manual)是YUHESEN产品的售后保养标准手册|
 |YHS-ROS-Opensource-Nav|[这里](https://github.com/YUHESEN-Robot/YHS-ROS-Opensource-Nav)是YUHESEN开源的基于ROS研发的具有高精度导航能力的底盘导航软件|
+|YHS-Product-Catalog |YUHESEN的所有产品信息都在[这个仓库](https://github.com/YUHESEN-Robot/YHS-Product-Catalog)的手册中，您可以尽情挑选您需要的产品|
