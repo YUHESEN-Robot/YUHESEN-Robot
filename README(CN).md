@@ -27,3 +27,4 @@
 |ROS2 DRIVER|ROS2驱动功能包：[DT-mid-ros2](https://github.com/YUHESEN-Robot/DT-mid-ros2), [DT-mini-ros2](https://github.com/YUHESEN-Robot/DT-mini-ros2), [FR-max-ros2](https://github.com/YUHESEN-Robot/FR-max-ros2), [FW-max-ros2](https://github.com/YUHESEN-Robot/FW-max-ros2),  [FW-mid-ros2](https://github.com/YUHESEN-Robot/FW-mid-ros2)， [FW-mini-ros2](https://github.com/YUHESEN-Robot/FW-mini-ros2), [MK-mid-ros2](https://github.com/YUHESEN-Robot/MK-mid-ros2), [MK-mini-ros2](https://github.com/YUHESEN-Robot/MK-mini-ros2), [TK-mid-ros2](https://github.com/YUHESEN-Robot/TK-mid-ros2)。
 |YHS-Acceptance-Criteria|[这里](https://github.com/YUHESEN-Robot/YHS-Acceptance-Criteria)是YUHESEN产品的验收标准手册|
 |YHS-Maintenance-Manual|[这里](https://github.com/YUHESEN-Robot/YHS-Maintenance-Manual)是YUHESEN产品的售后保养标准手册|
+|YHS-ROS-Opensource-Nav|[这里](https://github.com/YUHESEN-Robot/YHS-ROS-Opensource-Nav)是YUHESEN开源的基于ROS研发的具有高精度导航能力的底盘导航软件|
